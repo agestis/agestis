@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @agestis
+- 👀 I’m interested in fishing and play guitar.
+- 🌱 I’m currently learning C++, Swift, Kotlin
+- 📫 isik.alican@hotmail.com
