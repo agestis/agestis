@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @agestis
 - 👀 I’m interested in fishing and play guitar.
-- 🌱 I’m currently learning C++, Swift.
-- 📫 isik.alican@hotmail.com
+- 🌱 I’m currently learning Swift.
+- 📫 isik.alican@icloud.com
